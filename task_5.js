@@ -12,8 +12,7 @@ class Electro {
 class ElectroType {
     constructor(name, simple) {
         this.name = name,
-            this.simple = simple,
-            this.advanced = advanced
+            this.type = type
     }
 }
 
